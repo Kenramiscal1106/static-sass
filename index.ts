@@ -10,7 +10,3 @@ interface ui {
   name: string;
   age: number;
 }
-let user1: ui = {
-  age: 34,
-  name: "ken",
-};
