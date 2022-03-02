@@ -1,0 +1,15 @@
+{
+  "name": "static-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.49.9",
+    "typescript": "^4.6.2"
+  }
+}
