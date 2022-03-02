@@ -23,4 +23,3 @@ const user4: user = {
   name: "ken",
   age: 54,
 };
-let user7: user = null;
