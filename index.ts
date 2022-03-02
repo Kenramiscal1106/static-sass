@@ -18,7 +18,3 @@ let user2: user = {
   name: "ken",
   age: 15,
 };
-const user4: user = {
-  name: "ken",
-  age: 54,
-};
