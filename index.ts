@@ -14,7 +14,3 @@ let user1: ui = {
   age: 34,
   name: "ken",
 };
-let user2: user = {
-  name: "ken",
-  age: 15,
-};
