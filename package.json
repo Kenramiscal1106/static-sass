@@ -4,12 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "tsc index.ts"
+    "watch": "tsc index.ts",
+    "style": "sass -w styles.scss styles.css",
+    "serve": "serve -s ."
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "sass": "^1.49.9",
+    "serve": "^13.0.2",
     "typescript": "^4.6.2"
   }
 }
